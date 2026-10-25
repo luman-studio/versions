@@ -1,15 +1,15 @@
 {
-  "luman-car": "1.0.26",
+  "luman-car": "1.0.27",
   "luman-car-albatross": "1.0.2",
   "luman-car-bulldog": "1.0.3",
   "luman-car-camerton": "1.0.11",
   "luman-car-cobra": "1.0.9",
   "luman-car-rancher": "1.0.8",
-  "luman-car-redmont": "1.0.1",
+  "luman-car-redmont": "1.0.2",
   "luman-car-ropper": "1.0.10",
   "luman-car-tiger": "1.0.2",
   "luman-car-volt": "1.0.6",
-  "luman-dealership": "1.0.20",
+  "luman-dealership": "1.0.21",
   "luman-fuel": "1.1.15",
   "luman-speedometer": "1.2.4"
 }
