@@ -1,5 +1,5 @@
 {
-  "luman-car": "1.0.32",
+  "luman-car": "1.0.33",
   "luman-car-albatross": "1.0.4",
   "luman-car-bulldog": "1.0.5",
   "luman-car-camerton": "1.0.13",
@@ -11,7 +11,7 @@
   "luman-car-ropper": "1.0.12",
   "luman-car-tiger": "1.0.4",
   "luman-car-volt": "1.0.10",
-  "luman-dealership": "1.0.24",
+  "luman-dealership": "1.0.25",
   "luman-fuel": "1.1.15",
   "luman-speedometer": "1.2.4"
 }
